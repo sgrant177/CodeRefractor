@@ -1,1 +1,2 @@
-# CodeRefractor.github.io
+# CodeRefractor
+Homework assignment 1
